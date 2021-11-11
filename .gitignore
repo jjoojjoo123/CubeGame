@@ -1,0 +1,8 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+__MACOSX
+CubeGame/*
+!CubeGame/Assets
+CubeGame/Assets/*
+!CubeGame/Assets/Scripts
+*.meta
